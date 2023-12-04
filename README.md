@@ -5,17 +5,17 @@ hello here you can use this commands to to get the tool👾
 
 [git apt update -y']
 
-'''git apt upgrade -y'''
+[git apt upgrade -y]
 
-git pkg install python
+[git pkg install python]
 
-git pkg install git
+[git pkg install git]
 
-'git clone https://github.com/bombx002/web_were.git'
+[git clone https://github.com/bombx002/web_were.git]
 
-_follow this steps 👆_
+###follow this steps 👆
 
-Social media
+* Social media
 'YouTube:- https://youtube.com/@bombxgaming2502?si=ilDrBR68uGHyScns'
 
 Telegram:- https://t.me/Hack_bombx
