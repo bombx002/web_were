@@ -3,7 +3,7 @@ This tool give you 5 Hacking tools that you can Hack any website 👾
 
 hello here you can use this commands to to get the tool👾
 
-'git apt update -y'
+"git apt update -y"
 
 '''git apt upgrade -y'''
 
